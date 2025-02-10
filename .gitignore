@@ -1,0 +1,21 @@
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.env
+.venv/
+env/
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
+
+# Pickle files
+*.pkl
+
+# Database directory
+db/
